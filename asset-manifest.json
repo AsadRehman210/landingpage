@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.ad030f37.css",
+    "main.js": "/landingpage/static/js/main.86dd40c8.js",
+    "static/media/new_girl-min-removebg-preview 1.png": "/landingpage/static/media/new_girl-min-removebg-preview 1.96bd6b59c5bb3a54f54b.png",
+    "static/media/Vector.svg": "/landingpage/static/media/Vector.771a2049f43bd9137b5842e3015194f7.svg",
+    "static/media/student-17 1.svg": "/landingpage/static/media/student-17 1.28b733e67b53ccb460037e58e5db8e89.svg",
+    "static/media/logo.png": "/landingpage/static/media/logo.45a93b2c2581fe4361c7.png",
+    "static/media/lower dots rights.svg": "/landingpage/static/media/lower dots rights.572cc3444d64a11d1a673050e6d002c5.svg",
+    "static/media/lower dots.svg": "/landingpage/static/media/lower dots.a149c50a18fafb8091928d13ff3a0350.svg",
+    "static/media/school-31 1 (1).svg": "/landingpage/static/media/school-31 1 (1).930cce59b1105b4171465d5c81e5673f.svg",
+    "index.html": "/landingpage/index.html",
+    "static/media/Rectangle 7.svg": "/landingpage/static/media/Rectangle 7.10e96f43ad07df71b959f837bff807b7.svg",
+    "main.ad030f37.css.map": "/landingpage/static/css/main.ad030f37.css.map",
+    "main.86dd40c8.js.map": "/landingpage/static/js/main.86dd40c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad030f37.css",
+    "static/js/main.86dd40c8.js"
+  ]
+}
